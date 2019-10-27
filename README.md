@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Platzi Badges
+
+Project created in the React.js course on Platzi.com
 
 ## Available Scripts
 
